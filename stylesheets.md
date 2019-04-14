@@ -24,7 +24,6 @@ The following is intented for code written using the SCSS preprocessor.
     - [State: is-, has-](#state-is--has-)
     - [JavaSript Hooks: js-](#javasript-hooks-js-)
     - [Naming conventions](#naming-conventions)
-    - [References (from the source mentioned at the begining of the document)](#references-from-the-source-mentioned-at-the-begining-of-the-document)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ___
