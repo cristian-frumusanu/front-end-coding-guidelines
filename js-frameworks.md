@@ -480,6 +480,7 @@ In JavaScript, splitting objects with multiple properties over multiple lines is
 # [Component/instance options order](https://vuejs.org/v2/style-guide/#Component-instance-options-order-recommended) (adapted)
 Component/instance options should be ordered consistently.\
 This is the default order we recommend for component options:
+* props
 * store state
     - store getters
     - store actions
